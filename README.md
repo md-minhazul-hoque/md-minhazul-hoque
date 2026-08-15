@@ -9,10 +9,10 @@ I am a data-driven problem solver specializing in **Data Analysis**, **Power BI 
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (PostgreSQL,MYSQL,SQLSarver) |
+| **Languages** | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (PostgreSQL, MySQL, SQL Server) |
 | **Business Intelligence** | Power BI (DAX, Data Modeling, Power Query), Advanced Excel |
 | **Data & AI Engineering** | Data Cleaning, Exploratory Data Analysis (EDA), Machine Learning, Computer Vision |
-| **Tools & Platforms** | Mistral AI Studio, GitHub Copilot, Three.js, Git & GitHub, Google Colab |
+| **Tools & Platforms** | VS Code, Jupyter Notebook, Google Colab, Git & GitHub, pgAdmin, DBeaver, Mistral AI Studio, GitHub Copilot, Three.js, Canva |
 
 ---
 
@@ -27,8 +27,8 @@ I am a data-driven problem solver specializing in **Data Analysis**, **Power BI 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-minhazul-hoque&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-minhazul-hoque&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=md-minhazul-hoque&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=md-minhazul-hoque&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
 ---
